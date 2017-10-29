@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//csv/nishimatuya.csv=ISO-8859-1
 encoding//csv/sample.csv=UTF-8
 encoding/bayes_test.py=utf-8
 encoding/csvReader.py=utf-8
